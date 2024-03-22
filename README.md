@@ -1,8 +1,8 @@
-### Hi there 👋
+![Banner Image](https://github.com/lokeshgopal45/ICC_CWC_2023_Data_Analysis/blob/master/Media/players_images/Black%20Technology%20LinkedIn%20Banner.png)
 
-My name is Lokesh, and I am Interested in data science. </br>I am currently focused on upskilling myself in the field of data science through practical case studies and projects.
+<h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm a Aspiring Data Scientist/ ML Engineer 👨🏻‍💻  from India who loves to Solve Problems with help of Data🌐.</h3>
 
-- 🔭 I’m currently working on forage virtual case studies, Kaggle projects & learning Data Visualization,SQL and Python 
+- 🔭 I’m currently working on forage virtual case studies, Kaggle projects & learning Data Visualization, SQL and Python 
 - 👯 I’m looking to collaborate on Data Analytics projects
 
 ## ⚡ Stuff I Know
