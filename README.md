@@ -1,6 +1,15 @@
 ![Banner Image](https://github.com/lokeshgopal45/ICC_CWC_2023_Data_Analysis/blob/master/Media/players_images/Black%20Technology%20LinkedIn%20Banner.png)
 
-<h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm a Aspiring Data Scientist/ ML Engineer 👨🏻‍💻  from India who loves to Solve Problems with help of Data🌐.</h3>
+<h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm a Aspiring Data Scientist/ ML Engineer 👨🏻‍💻  from India.
+
+<p align="center">
+  <a href="mailto:loklokesh2156@gmail.com@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lokeshmadiga/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://lokeshmadiga.github.io/porfolio/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://twitter.com/lokeshgopal45" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://www.kaggle.com/lokeshmadiga" target="_blank"><img height="27" src = "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+  <a href="https://t.me/RuntimeTerrror" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
+</p>
 
 - 🔭 I’m currently working on forage virtual case studies, Kaggle projects & learning Data Visualization, SQL and Python 
 - 👯 I’m looking to collaborate on Data Analytics projects
