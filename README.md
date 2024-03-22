@@ -8,7 +8,6 @@
   <a href="https://lokeshmadiga.github.io/porfolio/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://twitter.com/lokeshgopal45" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://www.kaggle.com/lokeshmadiga" target="_blank"><img height="27" src = "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
-  <a href="https://t.me/RuntimeTerrror" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"></a>
 </p>
 
 - 🔭 I’m currently working on forage virtual case studies, Kaggle projects & learning Data Visualization, SQL and Python 
@@ -57,3 +56,34 @@
 ![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black) 
+      
+## 🤓 GitHub Stats
+
+<details>
+  <summary><b>📊 GitHub Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Professor833&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&icon_color=f9826c&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Professor833&bg_color=0D1117&title_color=f9826c&text_color=fdfdfd&show_icons=true&hide_border=true&layout=compact" />
+</details>
+
+<details>
+  <summary><b>🏆 GitHub Trophies</b></summary>
+  <br />
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Professor833&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" />
+  </p>
+</details>
+
+<details>
+  <summary><b>📈 GitHub Streaks</b></summary>
+  <br />
+  <p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Professor833&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=Professor833&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
+  </p>
+</details>
+
+
+<h3 align="center">Show some ❤️ by starring some of my repositories!</h3>
+
