@@ -8,7 +8,7 @@ My name is Lokesh, and I am Interested in data science. </br>I am currently focu
 ## ⚡ Stuff I Know
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-<!!![Django](https://img.shields.io/badge/-Django-Green?style=flat-square&logo=django)>
+<!--![Django](https://img.shields.io/badge/-Django-Green?style=flat-square&logo=django)-->
 ![Django Rest Framework](https://img.shields.io/badge/-DjangoRestFramework-red?style=flat-square&logo=django)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
