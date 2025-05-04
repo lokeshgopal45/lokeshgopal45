@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/lokeshgopal45/ICC_CWC_2023_Data_Analysis/blob/master/Media/players_images/Black%20Technology%20LinkedIn%20Banner.png)
+<!-- ![Banner Image](https://github.com/lokeshgopal45/ICC_CWC_2023_Data_Analysis/blob/master/Media/players_images/Black%20Technology%20LinkedIn%20Banner.png)
 
 <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Lokesh is ML Engineer 👨🏻‍💻  from India.
 
@@ -73,3 +73,4 @@
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshgopal45&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
   </p>
 </details>
+ -->
